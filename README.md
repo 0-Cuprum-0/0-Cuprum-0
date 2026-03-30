@@ -1,16 +1,21 @@
 ## Hi there 👋
+(en/be/pl)
+I'm Cuprum, a computer science student based in Warsaw, Poland.
 
-<!--
-**0-Cuprum-0/0-Cuprum-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently trying different technologies to find those, that appeal for me.
+My biggest projects are written in PHP, C and also SQL.
+Right now i'm actively learning Java.
 
-Here are some ideas to get you started:
+Also i'm familiar with OOP <in several languages>, JavaScript <and basic principles of server requests >, ROS.
+Daily using: linux terminal and virtual machines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun facts:
+-> I use Arch btw
+-> Crazy about good coffee and high quality music
+
+Future plans
+-> Learn how to solder
+-> Set up a server on Rasberry Pi
+-> Create (assemble and solder) a custom split keyboard
+
+
