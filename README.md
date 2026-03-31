@@ -5,7 +5,7 @@ I'm Cuprum, a computer science student based in Warsaw, Poland.  <br>
 I'm currently trying different technologies to find those, that appeal for me.<br>
 My biggest projects are written in PHP, C and also SQL.<br>
 Right now i'm actively learning Java.<br>
-Also i'm familiar with OOP (in several languages), JavaScript (and basic principles of server requests ), ROS. <br>
+Also i'm familiar with OOP (in several languages),Docker, JavaScript (and basic principles of server requests ), ROS. <br>
 Daily using: linux terminal, git and virtual machines.<br>
 
 **Future plans**<br>
