@@ -8,6 +8,8 @@ Right now i'm actively learning Java.<br>
 Also i'm familiar with OOP (in several languages),Docker, JavaScript (and basic principles of server requests ), ROS. <br>
 Daily using: linux terminal, git and virtual machines.<br>
 
+Team projects: Graph visualisation
+
 **Future plans**<br>
 
 -> Learn how to solder<br>
