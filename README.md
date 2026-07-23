@@ -12,8 +12,8 @@ Team projects: [Graph visualisation](https://github.com/jozwikaleksander/jimp2-w
 
 **Future plans**<br>
 
--> ~~Learn how to solder completed<br>~~ 
--> ~~Set up a server on Rasberry Pi delayed<br>~~
+-> ~~Learn how to solder~~ completed<br> 
+-> ~~Set up a server on Rasberry Pi~~ delayed<br>
 -> Create (assemble and solder) a custom split keyboard in process<br>
 
 **Fun facts:**<br>
